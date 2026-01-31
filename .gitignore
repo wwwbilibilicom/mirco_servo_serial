@@ -1,0 +1,17 @@
+build
+.vscode
+.idea
+*.iml
+out
+gradle
+gradlew
+gradlew.bat
+local.properties
+*.log
+*.iml
+*.log
+*.out
+*.apk
+*.bat
+*.exe
+*.jar
